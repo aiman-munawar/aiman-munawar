@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **Gsap**
+- 🌱 I’m currently learning **DSA in JS**
 
-- 💬 Ask me about **javaScript , Gsap**
+- 💬 Ask me about **javaScript , DSA**
 
 - 📫 How to reach me **aimanmunawar6@gmail.com**
 
